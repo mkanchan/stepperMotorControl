@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stepper Motor Controller</string>
+    <string name="edit_message">Enter rotation angle</string>
+    <string name="button_rotate">Rotate</string>
+</resources>
